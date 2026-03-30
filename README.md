@@ -1,8 +1,8 @@
-# How to Use the CA Health Atlas
+# How to Use the US Pop Health Intelligence Visualizer
 
 ## What This App Does
 
-The CA Health Atlas is an interactive map that visualizes CDC PLACES health data for California counties. You can explore how different health conditions (like asthma, diabetes, or smoking rates) vary across the state's 58 counties.
+The dashboard an interactive map that visualizes CDC PLACES health data for US counties. You can explore how different health conditions (like asthma, diabetes, or smoking rates) vary across the state's 58 counties.
 
 ---
 
@@ -41,6 +41,8 @@ pip install streamlit folium streamlit-folium geopandas pandas
 | **Health Measure** | Selects which metric to display on the map |
 
 ### The Map
+
+![Dashboard screenshot](https://github.com/k4mik4zekyo-afk/US-Pop-Health-Intelligence/blob/main/Dashboard.png)
 
 - **Color gradient** (yellow → red): Higher prevalence = darker red
 - **Gray counties**: No data available for that county + measure combo
