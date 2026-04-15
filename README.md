@@ -2,7 +2,7 @@
 
 ## What This App Does
 
-The dashboard an interactive map that visualizes CDC PLACES health data for US counties. You can explore how different health conditions (like asthma, diabetes, or smoking rates) vary across the state's 58 counties.
+The dashboard is an interactive map that visualizes CDC PLACES health data for US counties. You can explore how different health conditions (like asthma, diabetes, or smoking rates) vary across the state's 58 counties.
 
 ---
 
